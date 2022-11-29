@@ -10,3 +10,5 @@ Maak een praatplaat waarin je jouw ontwikkeling van de afgelopen sprints en waar
 ## Uitwerking
 
 ![Praatplaat](https://user-images.githubusercontent.com/112859814/204587682-fcadbe81-7f71-4e64-b24d-338655e03dc8.jpg)
+
+In de wiki vind je meer informatie over de stappen die ik heb doorlopen voor deze opdracht.
